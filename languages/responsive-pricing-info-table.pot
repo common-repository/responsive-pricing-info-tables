@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Pricing & Info Tables\n"
+"POT-Creation-Date: 2018-04-28 16:11+0530\n"
+"PO-Revision-Date: 2018-04-28 16:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: rptb.php:43
+msgid "All Tables"
+msgstr ""
+
+#: rptb.php:44
+msgid "Add New Table"
+msgstr ""
+
+#: rptb.php:45
+msgid "Edit Table"
+msgstr ""
+
+#: rptb.php:46
+msgid "New Responsive Table"
+msgstr ""
+
+#: rptb.php:47
+msgid "View Table"
+msgstr ""
+
+#: rptb.php:48
+msgid "Search Tables"
+msgstr ""
+
+#: rptb.php:49
+msgid "Nothing found"
+msgstr ""
+
+#: rptb.php:50
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: rptb.php:399
+msgid "RECOMMENDED"
+msgstr ""
+
+#: rptb_cf_init.php:58
+msgid "Table"
+msgstr ""
+
+#: rptb_cf_init.php:81
+msgid "Box Name"
+msgstr ""
+
+#: rptb_cf_init.php:82 rptb_cf_init.php:98
+msgid "(HTML Tags supported)"
+msgstr ""
+
+#: rptb_cf_init.php:83
+msgid "eg. <strong>Developer Plan</strong> or John Doe"
+msgstr ""
+
+#: rptb_cf_init.php:87
+msgid "Title"
+msgstr ""
+
+#: rptb_cf_init.php:88
+msgid "eg. USD 50 or Senior Developer"
+msgstr ""
+
+#: rptb_cf_init.php:91
+msgid "Subtitle"
+msgstr ""
+
+#: rptb_cf_init.php:92
+msgid "eg. monthly or Web Development Team"
+msgstr ""
+
+#: rptb_cf_init.php:97
+msgid "Feature"
+msgstr ""
+
+#: rptb_cf_init.php:99
+msgid "eg. <img src=\"PATH_TO_IMAGE\"/> or 1 CPU"
+msgstr ""
+
+#: rptb_cf_init.php:112
+msgid "Button Label"
+msgstr ""
+
+#: rptb_cf_init.php:113
+msgid "eg. Buy Now. or Know More"
+msgstr ""
+
+#: rptb_cf_init.php:116
+msgid "Button Link"
+msgstr ""
+
+#: rptb_cf_init.php:119 rptb_cf_init.php:120
+msgid "Other Settings"
+msgstr ""
+
+#: rptb_cf_init.php:124
+msgid "Highlight this box?"
+msgstr ""
+
+#: rptb_cf_init.php:128
+msgid "Color Scheme"
+msgstr ""
+
+#: rptb_cf_init.php:130
+msgid "Night Rider (Default)"
+msgstr ""
+
+#: rptb_cf_init.php:131
+msgid "Kelly Green"
+msgstr ""
+
+#: rptb_cf_init.php:132
+msgid "Salem"
+msgstr ""
+
+#: rptb_cf_init.php:133
+msgid "Mountain Green"
+msgstr ""
+
+#: rptb_cf_init.php:134
+msgid "Olive Green"
+msgstr ""
+
+#: rptb_cf_init.php:135
+msgid "Golden Yellow"
+msgstr ""
+
+#: rptb_cf_init.php:136
+msgid "Persian Indigo"
+msgstr ""
+
+#: rptb_cf_init.php:137
+msgid "Jazzberry Jam"
+msgstr ""
+
+#: rptb_cf_init.php:138
+msgid "Cerise Pink"
+msgstr ""
+
+#: rptb_cf_init.php:139
+msgid "Carnation Red"
+msgstr ""
+
+#: rptb_cf_init.php:140
+msgid "Crimson Red"
+msgstr ""
+
+#: rptb_cf_init.php:141
+msgid "Tango Orange"
+msgstr ""
+
+#: rptb_cf_init.php:142
+msgid "Torch Red"
+msgstr ""
+
+#: rptb_cf_init.php:143
+msgid "Curious Blue"
+msgstr ""
+
+#: rptb_cf_init.php:144
+msgid "Dodger Blue"
+msgstr ""
+
+#: rptb_cf_init.php:145
+msgid "Egg Blue"
+msgstr ""
+
+#: rptb_cf_init.php:146
+msgid "Persian Green"
+msgstr ""
+
+#: rptb_cf_init.php:147
+msgid "Mountain Meadow"
+msgstr ""
+
+#: rptb_cf_init.php:148
+msgid "Custom color scheme"
+msgstr ""
+
+#: rptb_cf_init.php:153
+msgid "\"Box Name\" font color"
+msgstr ""
+
+#: rptb_cf_init.php:165
+msgid "\"Box Name\" background color"
+msgstr ""
+
+#: rptb_cf_init.php:178
+msgid "\"Box Name\" background image"
+msgstr ""
+
+#: rptb_cf_init.php:190
+msgid "\"Box Title\" font color"
+msgstr ""
+
+#: rptb_cf_init.php:202
+msgid "\"Box Title\" background color"
+msgstr ""
+
+#: rptb_cf_init.php:214
+msgid "\"Box Title\" background image"
+msgstr ""
+
+#: rptb_cf_init.php:228
+msgid "\"Features list\" font color"
+msgstr ""
+
+#: rptb_cf_init.php:240
+msgid "\"Features list\" background color"
+msgstr ""
+
+#: rptb_cf_init.php:252
+msgid "\"Features list\" background image"
+msgstr ""
+
+#: rptb_cf_init.php:266
+msgid "\"Box\" background color 1"
+msgstr ""
+
+#: rptb_cf_init.php:279
+msgid "\"Box\" background color 2"
+msgstr ""
+
+#: rptb_cf_init.php:292
+msgid "\"Box\" background image"
+msgstr ""
+
+#: rptb_cf_init.php:305
+msgid "\"Button\" font color"
+msgstr ""
+
+#: rptb_cf_init.php:317
+msgid "\"Button\" background color"
+msgstr ""
+
+#: rptb_cf_init.php:331
+msgid "\"Button\" border color"
+msgstr ""
+
+#: rptb_cf_init.php:344
+msgid "\"Button\" row background color"
+msgstr ""
+
+#: rptb_cf_init.php:383
+msgid "Table Settings"
+msgstr ""
+
+#: rptb_cf_init.php:389
+msgid "Show spaces between the boxes?"
+msgstr ""
+
+#: rptb_cf_init.php:391
+msgid "Enable this option to show spaces between individual boxes"
+msgstr ""
+
+#: rptb_cf_init.php:394
+msgid "Striped alternate rows?"
+msgstr ""
+
+#: rptb_cf_init.php:396
+msgid "Enable this option to show alternate rows with different shaded stripes"
+msgstr ""
+
+#: rptb_cf_init.php:399
+msgid "Box style"
+msgstr ""
+
+#: rptb_cf_init.php:401
+msgid "Style 1"
+msgstr ""
+
+#: rptb_cf_init.php:402
+msgid "Style 2"
+msgstr ""
+
+#: rptb_cf_init.php:403
+msgid "Style 3"
+msgstr ""
+
+#: rptb_cf_init.php:404
+msgid "Style 4"
+msgstr ""
+
+#: rptb_cf_init.php:405
+msgid "Style 5"
+msgstr ""
+
+#: rptb_cf_init.php:410
+msgid "Animation style"
+msgstr ""
+
+#: rptb_cf_init.php:420
+msgid ""
+"Select a style if you want the table to appear with an animation when the "
+"page loads"
+msgstr ""
+
+#: rptb_cf_init.php:424
+msgid "Enable Sliding Boxes?"
+msgstr ""
+
+#: rptb_cf_init.php:426
+msgid "Only on large devices (width >= 768px)"
+msgstr ""
+
+#: rptb_cf_init.php:427
+msgid "Only on small devices (width < 768px)"
+msgstr ""
+
+#: rptb_cf_init.php:428
+msgid "On all devices"
+msgstr ""
+
+#: rptb_cf_init.php:429
+msgid "Do not bother"
+msgstr ""
+
+#: rptb_cf_init.php:434
+msgid "Enable horizontal scrolling on small devices?"
+msgstr ""
+
+#: rptb_cf_init.php:436
+msgid ""
+"If this option is selected, it will enable horizontal scrollbars (if needed) "
+"on smaller devices for improved visibility"
+msgstr ""
+
+#: rptb_cf_init.php:450
+msgid "Keep the first box fixed in the sliding mode?"
+msgstr ""
+
+#: rptb_cf_init.php:452
+msgid ""
+"If this option is selected the first box will remain fixed and other boxes "
+"will slide in the sliding mode"
+msgstr ""
+
+#: rptb_cf_init.php:463
+msgid "\"Featured\" ribbon color"
+msgstr ""
+
+#: rptb_cf_init.php:467
+msgid "\"Featured\" ribbon text"
+msgstr ""
+
+#: rptb_cf_init.php:468
+msgid "eg. Recommended, or Most Popular"
+msgstr ""

@@ -1,0 +1,10 @@
+{
+	"extra": {
+        "installer-paths": {
+            "vendor/{$vendor}/{$name}/": ["type:wordpress-plugin"]
+        }
+    },
+	"require": {
+		"htmlburger/carbon-fields-plugin": "^2.2"
+	}
+}

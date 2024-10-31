@@ -1,0 +1,310 @@
+.rptb_hidden {
+	display:none;
+}
+.rptb_box_repeater tr, .rptb_box_repeater td {
+	display:block;
+}
+
+.rptb_box_repeater .acf-repeater .acf-row {
+    width: 320px;
+    float: left;
+    margin: 10px;
+    margin: 10px;
+    border: 2px solid #e3e3e3;
+    box-shadow: 2px 2px 8px 3px #eee;
+    float: none;
+    display: inline-block;
+    word-wrap: break-word;
+    /* word-break: break-all; */
+    white-space: normal;
+    vertical-align: top;
+	border: none;
+}
+
+.rptb_box_repeater .acf-repeater > table {
+	border: none;
+}
+.rptb_box_repeater >.acf-input > .acf-repeater > table {
+	max-width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: inline-block;
+}
+.acf-actions {
+    margin-top: 5px;
+}
+
+.rptb_box_repeater .acf-repeater .acf-row-handle.order,
+.rptb_box_repeater .acf-repeater .acf-row-handle.remove {
+    width: 100%;
+    box-sizing: border-box;
+	border-width: 0;
+}
+
+.rptb_box_repeater .acf-repeater .acf-repeater .acf-row {
+    width: 270px;
+	width: 100%;
+    margin: 0 0 10px 0;
+    box-sizing: border-box;
+    box-shadow: none;
+    border: none;
+}
+
+.rptb_box_repeater .acf-repeater .acf-repeater .acf-row-handle.order + td {
+    border: none;
+}
+
+.rptb_box_repeater .acf-repeater .acf-row-handle.order {
+    background: #0085ba;
+}
+
+.rptb_box_repeater .acf-repeater .acf-row-handle .acf-icon {
+	top: 50%;
+}
+
+.rptb_box_repeater .acf-repeater .acf-row-handle .acf-icon.-minus {
+    top: 50%;
+    right: 0;
+}
+
+.rptb_box_repeater .acf-fields > .acf-field.rptb_settings_div {
+    background: #eeeaea;
+    padding: 5px 12px !important;
+    position: relative;
+}
+.acf-fields .rptb_features {
+	padding: 15px 0;
+}
+.rptb_features .acf-label{
+	padding: 5px 12px;
+    background: #eeeeea;
+    margin: 0;
+}
+.rptb_setting_field {
+	background:#f4f4f4;
+}
+.rptb_settings_div .acf-label{
+    margin: 0;
+}
+.rptb_settings_div .acf-input {
+    display: none;
+}
+
+.setting_toggle_arrow, .features_toggle_arrow{
+	float:right;
+	padding-right:0px;
+}
+/*.acf-fields > .acf-field.rptb_settings_div:after {
+    content: 'X';
+    position: absolute;
+    right: 15px;
+    top: 8px;
+}*/
+
+.rptb_radio label,
+.rptb_checkbox label{
+	/*position: relative;
+	padding-top: 5px;
+	margin-left: 40px;
+	display: inline-block !important;*/
+}
+
+.rptb_checkbox ul.acf-checkbox-list li label {
+	color: #fff;
+}
+
+.rptb_radio input[type="radio"],
+.rptb_checkbox input[type="checkbox"]{
+	width: 0; 
+    height: 0;
+	margin:0;
+    border: none;
+	padding-left: 42px !important;
+}
+.rptb_radio input[type="radio"]::before,
+.rptb_radio input[type="radio"]::after,
+.rptb_checkbox input[type="checkbox"]::before,
+.rptb_checkbox input[type="checkbox"]::after{
+	content: '';
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+.rptb_radio label:hover,
+.rptb_checkbox label:hover,
+#rptb_table_settings_metabox .rptb_radio label:hover,
+#rptb_table_settings_metabox .rptb_checkbox label:hover {
+	cursor: pointer;
+}
+.rptb_radio input[type="radio"]::before,
+.rptb_checkbox input[type="checkbox"]::before{
+	left: 0;
+	top: 1px;
+	width: 35px;
+	height: 18px;
+	background-color: #d1d1d1;
+	border-radius: 50px;
+	margin: 0;
+	transition: left .3s, background-color .3s;
+}
+.rptb_radio input[type="radio"]::after,
+.rptb_checkbox input[type="checkbox"]::after{
+	left: 3px;
+	top:1px;
+	width: 12px;
+	height: 12px;
+	border-radius: 10px;
+	background-color: #fff;
+	transition: left .3s, background-color .3s;
+	margin: 3px 0;
+}
+
+.rptb_radio input[type="radio"]:checked::before,
+.rptb_checkbox input[type="checkbox"]:checked::before{
+	background:#0073aa;
+}
+.rptb_radio input[type="radio"]:checked::after,
+.rptb_checkbox input[type="checkbox"]:checked::after{
+	left: 22px;
+	background:#fff;
+}
+
+
+
+
+.acf-field-extended-color-picker .iris-picker.iris-border {
+	width: 260px!important;
+}
+
+/*
+.wp-picker-container .iris-picker {
+	max-width:100%;
+	width:260px !important;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#carbon_fields_container_group_rptb_pricing_tables .carbon-drag-handle {
+    background: #0085ba;
+    color: #fff;
+	padding-top:8px;
+	padding-bottom:8px;
+	min-height:1.3em;
+}
+#carbon_fields_container_group_rptb_pricing_tables .carbon-groups-holder .carbon-group-actions {
+	top:8px;
+}
+#carbon_fields_container_group_rptb_pricing_tables .carbon-drag-handle .group-number {
+	line-height:36px;
+	border-right:none;
+}
+#carbon_fields_container_group_rptb_pricing_tables .carbon-groups-holder .carbon-group-actions a {
+	color:#fff;
+}
+#carbon_fields_container_group_rptb_pricing_tables .carbon-groups-holder .carbon-row {
+	width: 320px;
+    float: left;
+    margin: 10px;
+    margin: 10px;
+    border: 2px solid #e3e3e3;
+    box-shadow: 2px 2px 8px 3px #eee;
+    float: none;
+    display: inline-block;
+    word-wrap: break-word;
+    /* word-break: break-all; */
+    white-space: normal;
+    vertical-align: top;
+    border: none;
+	margin-bottom:270px;
+}
+.colorpickerActive {
+	margin-bottom:200px;
+}
+#carbon_fields_container_group_rptb_pricing_tables .rptb_features .carbon-groups-holder .carbon-row {
+    width: 290px;
+    margin: 10px 0;
+    display: block;
+	box-shadow: none;
+    border-bottom: 1px solid #ccc;
+}
+#carbon_fields_container_group_rptb_pricing_tables .groups-wrapper.layout-grid{
+    overflow-x: auto;
+    white-space: nowrap;
+    display: inline-block;
+}
+#carbon_fields_container_group_rptb_pricing_tables {
+	display: block;
+    overflow-x: auto;
+}
+.rptb_checkbox.carbon-checkbox label {
+	position:relative;
+}
+#carbon_fields_container_group_rptb_pricing_tables .carbon-fields-collection {
+	width:95%;
+}
+.rptb_field_containers .carbon-field label {
+	font-weight:bold;
+}
+.rptb_field_containers .carbon-button .button {
+    /*background: #0073aa;
+    color: #fff;
+    border: none;*/
+	
+	background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+.rptb_field_containers .carbon-button .button:hover {
+	background: #008ec2;
+    border-color: #006799;
+    color: #fff;
+}
+
+.rptb_field_containers .carbon-field.carbon-html.rptb_settings_div {
+    background: #E4E4E4;
+	cursor: pointer;
+}
+.rptb_field_containers .carbon-field select {
+    width: 100%;
+    display: block;
+    height: 26px;
+    padding: 0 0 0 8px;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #aaa;
+    white-space: nowrap;
+    line-height: 26px;
+    color: #444;
+    text-decoration: none;
+    border-radius: 4px;
+    background-clip: padding-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #fff;
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eee), color-stop(0.5, #fff));
+    background-image: -webkit-linear-gradient(center bottom, #eee 0%, #fff 50%);
+    background-image: -moz-linear-gradient(center bottom, #eee 0%, #fff 50%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#eeeeee', GradientType = 0);
+    background-image: linear-gradient(to top, #eee 0%, #fff 50%);
+    border-color: #BBBBBB;
+}
